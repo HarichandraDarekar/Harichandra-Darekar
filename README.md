@@ -1,7 +1,7 @@
 - Hello there👋, I’m harichandra darekar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Oracle
-- 💞️ I’m looking to collaborate on Packages
+- � I’m currently learning Advanced Java
+- � I’m looking to collaborate on Packages
 - 📫 How to reach me hrdarekar06@gmail.com
 
 <!---
